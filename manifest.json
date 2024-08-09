@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "LIFO Tab Closer",
+    "version": "1.0",
+    "description": "Closes the most recently opened tabs if the total number of tabs exceeds 50.",
+    "permissions": ["tabs"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "host_permissions": ["<all_urls>"]
+  }
+  
