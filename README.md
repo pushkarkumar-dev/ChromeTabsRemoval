@@ -58,8 +58,8 @@ _Below is an example of how you can instruct your audience on installing and set
 ## Usage
 
 1. Close the chrome, and restart.
-2. Current Configuration is restricts a total of 10 chrome tabs.
-2. If you want more update MAX_TABS in ```background.js```.
+2. Current Configuration restricts a total of 10 chrome tabs.
+2. If you want more, update MAX_TABS in ```background.js```.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
