@@ -43,7 +43,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone git@github.com:pushkarkumarraijada/ChromeTabsRemoval.git
+   git clone git@github.com:pushkarkumar-dev/ChromeTabsRemoval.git
    ```
 2. Open Chrome and navigate to ```chrome://extensions/.```
 
@@ -69,6 +69,6 @@ _Below is an example of how you can instruct your audience on installing and set
 
 Pushkar - [@Linkedin](https://www.linkedin.com/in/pushkar1005/)
 
-Project Link: [https://github.com/pushkarkumarraijada/ChromeTabsRemoval](https://github.com/pushkarkumarraijada/ChromeTabsRemoval)
+Project Link: [https://github.com/pushkarkumar-dev/ChromeTabsRemoval](https://github.com/pushkarkumar-dev/ChromeTabsRemoval)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
